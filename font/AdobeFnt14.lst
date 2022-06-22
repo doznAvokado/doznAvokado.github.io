@@ -1,0 +1,114 @@
+%!Adobe-FontList 1.14
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansCJKkr-Bold
+FamilyName:Noto Sans CJK KR
+StyleName:Bold
+FullName:Noto Sans CJK KR Bold
+MenuName:Noto Sans CJK KR Bold
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:Korean
+OutlineFileName:C:\Users\lg\Desktop\work\NH\work\Font\NotoSansKR-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:378644
+FileModTime:1600946902
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\lg\Desktop\work\NH\work\Font\NotoSansKR-Bold.woff
+FileModTime:1600946902
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\lg\Desktop\work\NH\work\Font\NotoSansKR-Bold.woff2
+FileModTime:1600946902
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansCJKkr-Medium
+FamilyName:Noto Sans CJK KR
+StyleName:Medium
+FullName:Noto Sans CJK KR Medium
+MenuName:Noto Sans CJK KR Medium
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Medium
+FullNameNative:
+WritingScript:Korean
+OutlineFileName:C:\Users\lg\Desktop\work\NH\work\Font\NotoSansKR-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:373156
+FileModTime:1600946902
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\lg\Desktop\work\NH\work\Font\NotoSansKR-Medium.woff
+FileModTime:1600946902
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\lg\Desktop\work\NH\work\Font\NotoSansKR-Medium.woff2
+FileModTime:1600946902
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansCJKkr-Regular
+FamilyName:Noto Sans CJK KR
+StyleName:Regular
+FullName:Noto Sans CJK KR Regular
+MenuName:Noto Sans CJK KR Regular
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Korean
+OutlineFileName:C:\Users\lg\Desktop\work\NH\work\Font\NotoSansKR-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:375252
+FileModTime:1600946902
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\lg\Desktop\work\NH\work\Font\NotoSansKR-Regular.woff
+FileModTime:1600946902
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\lg\Desktop\work\NH\work\Font\NotoSansKR-Regular.woff2
+FileModTime:1600946902
+%EndFont
+
